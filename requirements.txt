@@ -4,6 +4,7 @@ matplotlib
 seaborn
 scikit-learn
 mlflow
+tensorflow
 jupyter
 notebook
 ipywidgets
